@@ -114,7 +114,7 @@ Example:
 **`custom_title=This%20is%20a%20title`**
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/mwakidenis/github-readme-activity-graph)
 ```
 
 **Example:**
@@ -215,10 +215,10 @@ Please read through our [contributing guidelines](https://github.com/mwakidenis/
 <table>
     <tr>
         <td align="center">
-        <a href="http://github.com/Ashutosh00710">
+        <a href="http://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/42907572?s=460&u=3c5c03fdddeec2483819b845bd549616d48b71e5&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Ashutosh Dwivedi</b></sub>
+            <sub><b>Mwaki Denis</b></sub>
         </a>
         <br />
         <a href="#projectManagement" title="Project Management">📆</a>
@@ -228,14 +228,14 @@ Please read through our [contributing guidelines](https://github.com/mwakidenis/
         <a href="#testing" title="Testing">⚠</a>
     </td>
     <td align="center">
-        <a href="http://github.com/kshitij978">
+        <a href="http://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/42491256?s=460&u=db0c5e26632c9f4917db50e714cd7552c1559ba8&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Kshitij Srivastava</b></sub>
+            <sub><b>Mwaki Denis</b></sub>
         </a>
         <br />
         <a href="#projectManagement" title="Project Management">📆</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=kshitij978" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
         <a href="#documentation" title="Documentation">📖</a>
         <a href="#design" title="Design">🎨</a>
     </td>
@@ -252,71 +252,71 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/tintindas">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/47525983?s=460&u=0cedda5548e62fc342f32f89d230253cb8b9b099&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Upamanyu Das</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=tintindas" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
-        <a href="https://github.com/DenverCoder1">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/20955511?s=460&u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Jonah Lawrence</b></sub>
+            <sub><b>Mwaki Denis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=DenverCoder1" title="Code">💻</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=DenverCoder1" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
         <a href="https://github.com/MilindModi">
             <img src="https://avatars.githubusercontent.com/u/28483876?s=460&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Milind Modi</b></sub>
+            <sub><b>Mwaki Denis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=MilindModi" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Vaibhav-afk">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/67143938?s=400&u=96dcbfcff0afcd5597a904181bc4cc309a4b22fa&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Vaibhav</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=Vaibhav-afk" title="Code">💻</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=Vaibhav-afk" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
-        <a href="https://github.com/jgphilpott">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/4128208?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Jacob Philpott</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=jgphilpott" title="Code">💻</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=jgphilpott" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
-        <a href="https://github.com/SonuKumar81800">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/45717030?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Sonu Kumar</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=SonuKumar81800" title="Style">🎨</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=SonuKumar81800" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
         <a href="https://github.com/andinoriel">
             <img src="https://avatars.githubusercontent.com/u/36269798?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Mykola Symon</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=andinoriel" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
     </td>
   </tr>
   <tr>
@@ -324,124 +324,124 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         <a href="https://github.com/sreyan-ghosh">
             <img src="https://avatars.githubusercontent.com/u/60854658?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Sreyan Ghosh</b></sub>
+            <sub><b></b></sub>mwakidenis
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=sreyan-ghosh" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Anant-mishra1729">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/84588156?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Anant Mishra</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=Anant-mishra1729" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
     </td>
     <td align="center">
-        <a href="https://github.com/SKewLinez">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/37243931?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Skyler</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=SKewLinez" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
     </td>
     <td align="center">
         <a href="https://github.com/eliely">
             <img src="https://avatars.githubusercontent.com/u/16717633?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Iryna Mykoliuk</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=eliely" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
     </td>
     <td align="center">
-        <a href="https://github.com/DalpatRathore">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/69510006?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Dalpat Rathore</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=DalpatRathore" title="Style">🎨</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=DalpatRathore" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
     </td>
     <td align="center">
-        <a href="https://github.com/fishmandev">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/29619660?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Dmitriy Fishman</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=fishmandev" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
-        <a href="https://github.com/MagicLike">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/82117109?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>MagicLike</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=MagicLike" title="Style">🎨</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=MagicLike" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
     </td>
   </tr>
   </tr>
     <td align="center">
-        <a href="https://github.com/OnkarRuikar">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/87750369?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>OnkarRuikar</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=OnkarRuikar" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
     </td>
     <td align="center">
         <a href="https://github.com/valetzx">
             <img src="https://avatars.githubusercontent.com/u/45054400?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>valetzx</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=valetzx" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
-        <a href="https://github.com/tranthaituananh">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/77098480?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>tranthaituananh</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=tranthaituananh" title="Style">🎨</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=tranthaituananh" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Style">🎨</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
-        <a href="https://github.com/polekstulod">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/38794173?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>polekstulod</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=polekstulod" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
     <td align="center">
         <a href="https://github.com/jmloudis">
             <img src="https://avatars.githubusercontent.com/u/70452698?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>jmloudis</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/pulls?q=author%3Ajmloudis+" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/pulls?q=author%3Amwakidenisis+" title="Code">💻</a>
     </td>
     <td align="center">
-        <a href="https://github.com/fabianocouto">
+        <a href="https://github.com/mwakidenis">
             <img src="https://avatars.githubusercontent.com/u/3431285?v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>fabianocouto</b></sub>
+            <sub><b>mwakidenis</b></sub>
         </a>
         <br />
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=fabianocouto" title="Code">💻</a>
-        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=fabianocouto" title="Documentation">📖</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Code">💻</a>
+        <a href="https://github.com/mwakidenis/github-readme-activity-graph/commits?author=mwakidenis" title="Documentation">📖</a>
     </td>
   </tr>
 </table>
