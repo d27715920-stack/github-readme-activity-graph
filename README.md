@@ -7,7 +7,7 @@
 <a href="https://jb.gg/OpenSourceSupport">
 <p align="center">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
-</p>
+</p> 
 </a>
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 A dynamically generated activity graph to show your GitHub activities of last 31 days.
